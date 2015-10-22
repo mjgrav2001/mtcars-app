@@ -1,0 +1,12 @@
+## Documentation for 'shiny' application
+ 
+### Uses material of course project in the Coursera Data Science Specialization 'Regression Models' - analysis of the 'mtcars' data set.
+
+---
+title: "mtcars-shiny-docu.Rmd"
+author: "Mark Jack"
+date: "October 22, 2015"
+output: html_document
+---
+
+In the interactive plot, Figure 1, two histograms are shown to demonstrate the distribution of mpg values in the data set for the two groups, automatic transmission am=1 and manual transmission am=0. The bin size in both histograms may be adjusted interactively with the slide bar shown to the left hand side of the web application. The bin size can be varied between 1 and 40 in units of 1 mile-per-gallon (mpg).
